@@ -1,0 +1,2 @@
+C:/Users/felip/Desktop/faculdade/poc_wallet_connect/android/app/.cxx/Debug/1l3ut51y/x86/CMakeFiles/edit_cache.dir
+C:/Users/felip/Desktop/faculdade/poc_wallet_connect/android/app/.cxx/Debug/1l3ut51y/x86/CMakeFiles/rebuild_cache.dir

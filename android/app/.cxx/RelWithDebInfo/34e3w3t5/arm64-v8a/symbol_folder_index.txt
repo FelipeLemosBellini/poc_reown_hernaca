@@ -1,0 +1,1 @@
+C:\Users\felip\Desktop\faculdade\poc_wallet_connect\build\app\intermediates\cxx\RelWithDebInfo\34e3w3t5\obj\arm64-v8a
